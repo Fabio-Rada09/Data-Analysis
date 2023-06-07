@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fabio Rada
-- Highly experienced Data Analyst skilled in Excel, Python (Numpy, Pandas, Matplotlib, Seaborn, Pygal), and Power BI. 
+- Highly experienced Data Analyst skilled in Excel,SQL, Python (Numpy, Pandas, Matplotlib, Seaborn, Pygal), and Power BI. 
 - With strong communication, interpersonal and problem-solving skills. 
 - Passionate about helping businesses make data-driven decisions.
 
